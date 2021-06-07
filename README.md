@@ -25,4 +25,4 @@ rational for them to do too. Let’s say a miner signs up for a decentralized lo
 They will just keep mining blocks and not publishing till they get the block they want! And they are 
 incentivized to do this, since they will only be forgoing maybe 2–3 ETH, whereas if they win, the upside is massive. 
 Hence, it's always advised to use an API/Oracle to generate random number. In this mini-project we've used Chainlink's VRF (Verifiable Random Function).
-![](images/chainLink.jpg)
+![](images/chainlink.png)
